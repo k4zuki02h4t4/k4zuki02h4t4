@@ -6,4 +6,4 @@
 
 I am a web developer at Kaleid Pixel (Saitama, Japan), I work remotely 💻
 
-😎 `PHP`, `MySQL`, `JavaScript`, `WordPress`
+😎 `PHP`, `MySQL`, `JavaScript`
