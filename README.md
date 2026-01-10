@@ -7,10 +7,15 @@
 I am a web developer at Kaleid Pixel (Saitama, Japan), I work remotely 💻
 
 😎 `PHP`, `MySQL`, `jQuery`
-## <img width="auto" height="24" alt="WordPress logo" align="absbottom" src="./assets/wordpress-logo.svg"> WordPress contribution history
-- <img width="auto" height="24" alt="dashicons editor code" align="absbottom" src="./assets/wordpress-core-contributor-badge.svg"> Core Contributor
+<h2><picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="./assets/wordpress-logo-dark.svg" width="auto" height="32" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/wordpress-logo-light.svg" width="auto" height="32" />
+  <img width="auto" height="32" alt="WordPress logo" align="absbottom" src="./assets/wordpress-logo-light.svg" />
+  </picture> WordPress contribution history</h2>
+
+- <img width="auto" height="24" alt="dashicons editor code" align="absbottom" src="./assets/wordpress-core-contributor-badge.svg" /> Core Contributor
 - Translation Contributor
-- <img width="auto" height="24" alt="dashicons format chat" align="absbottom" src="./assets/wordpress-support-contributor-badge.svg"> Support Contributor
+- <img width="auto" height="24" alt="dashicons format chat" align="absbottom" src="./assets/wordpress-support-contributor-badge.svg" /> Support Contributor
 - WordCamp Organizer
 - WordCamp Speaker
 - Plugin Developer
