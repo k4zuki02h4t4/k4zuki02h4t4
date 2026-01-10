@@ -6,9 +6,31 @@
 
 *Digital Contents Creator (Developer / Programmer)*
 
-I am a web developer at Kaleid Pixel (Saitama, Japan), I work remotely 💻
+I'm a solo-mode developer mainly fighting with PHP.
+Writing PHP while chasing the ideal desk setup (Gadgets & Custom Keyboards).
+I live in Dark Mode; showing me a Light Mode screen deals critical damage to my eyes.
+I may seem laid-back, but I'm unexpectedly particular about details.
 
-😎 `PHP`, `MySQL`, `jQuery`
+I constantly wish for a real-life `Ctrl + Z` (Undo with memory retention) and `Ctrl + Shift + Z` (Redo with alternate timeline memories).
+
+```json
+{
+  "mode": "Solo",
+  "theme": "Dark Mode Only",
+  "languages": ["PHP", "Japanese"],
+  "hobbies": ["Anime", "Games", "YouTube"],
+  "likes": [
+    "Gadgets (PC, Smartphones)",
+    "Building PCs & Keyboards",
+    "Earphones & Headphones"
+  ],
+  "weakness": "Light Mode screens",
+  "traits": [
+    "Unexpectedly particular",
+    "Solo player in life & games"
+  ]
+}
+```
 
 <h2><picture>
   <source media="(prefers-color-scheme: dark)"  srcset="./assets/wordpress-logo-dark.svg" width="auto" height="28" />
@@ -34,3 +56,6 @@ I am a web developer at Kaleid Pixel (Saitama, Japan), I work remotely 💻
 - [【2025年版】XAMPP・MAMPに代わるWindows向けLAMP環境3選【軽量＆簡単】](https://zenn.dev/k4zuki02h4t4/articles/cb3ca912c9f289)
 - [カフェインレス・エナジードリンク市場の可能性と生理的効果](https://note.com/k4zuki0tsuhata/n/n12cea7cccb4d)
 <!-- BLOG-POST-LIST:END -->
+
+## 💛 Contact
+If you spot me somewhere in the wild, feel free to say hi👋
