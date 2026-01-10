@@ -2,7 +2,7 @@
 
 # <img width="24" height="24" alt="mew" src="https://github.githubassets.com/images/mona-whisper.gif"> Hi there I'm K4zuki T
 
-<img width="40%" alt="" align="right" src="./assets/profile-joined-github-dark.png" />
+<img width="60%" alt="" align="right" src="./assets/profile-joined-github-dark.png" />
 
 *Digital Contents Creator (Developer / Programmer)*
 
