@@ -12,4 +12,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
                 max_post_count: "7"
-                feed_list: "https://zenn.dev/k4zuki02h4t4/feed"
+                feed_list: "https://zenn.dev/k4zuki02h4t4/feed,https://note.com/k4zuki0tsuhata/rss"
