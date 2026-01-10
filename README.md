@@ -50,7 +50,6 @@ I constantly wish for a real-life `Ctrl + Z` (Undo with memory retention) and `C
 <!-- BLOG-POST-LIST:START -->
 - [生成AIでイラスト年賀状を生成してみたので、その手順を公開【ChatGPT・Gemini・Nano Banana Pro】](https://note.com/k4zuki0tsuhata/n/nb7938f8ef0d3)
 - [【Laragon】XAMPP・MAMPに代わるWindows向けLAMP環境【軽量＆簡単】](https://zenn.dev/k4zuki02h4t4/articles/92111b5d112653)
-- [振り返れば難局ばかりの日々…それでも明日を選ぶ理由（2025年総括）](https://note.com/k4zuki0tsuhata/n/n09f7ea2c58cb)
 - [【NTT 東日本光コラボ回収代行分】en ひかりの支払い方法を変更する手順と請求履歴の確認方法](https://note.com/k4zuki0tsuhata/n/n5dcbfb33d93f)
 - [Intel NIC X710-TL/T2L の高速化／パフォーマンス調整のプロパティー詳細設定](https://zenn.dev/k4zuki02h4t4/articles/cf4372c152016b)
 - [【2025年版】XAMPP・MAMPに代わるWindows向けLAMP環境3選【軽量＆簡単】](https://zenn.dev/k4zuki02h4t4/articles/cb3ca912c9f289)
