@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
     workflow_dispatch:
     schedule:
-        - cron: '0 * * * *'
+        - cron: "0 * * * *"
 jobs:
     update-readme-with-blog:
         name: Update this repo's README with latest blog posts
@@ -12,4 +12,5 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
                 max_post_count: "7"
+                readme_path: "README.md,README-ja.md"
                 feed_list: "https://zenn.dev/k4zuki02h4t4/feed,https://note.com/k4zuki0tsuhata/rss"
