@@ -7,6 +7,12 @@
 I am a web developer at Kaleid Pixel (Saitama, Japan), I work remotely 💻
 
 😎 `PHP`, `MySQL`, `jQuery`
+
+<h2><img width="auto" height="28" alt="zenn logo" align="absbottom" src="./assets/zenn-logo.svg" /> Latest posts</h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h2><picture>
   <source media="(prefers-color-scheme: dark)"  srcset="./assets/wordpress-logo-dark.svg" width="auto" height="28" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/wordpress-logo-light.svg" width="auto" height="28" />
