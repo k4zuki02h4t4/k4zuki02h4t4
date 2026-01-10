@@ -18,5 +18,5 @@ I am a web developer at Kaleid Pixel (Saitama, Japan), I work remotely 💻
 - <img width="auto" height="24" alt="dashicons format chat" align="absbottom" src="./assets/wordpress-support-contributor-badge.svg" /> Support Contributor
 - WordCamp Organizer
 - WordCamp Speaker
-- Plugin Developer
+- <img width="auto" height="24" alt="dashicons admin plugin" align="absbottom" src="./assets/wordpress-plugin-developer-badge.svg" /> Plugin Developer
 
