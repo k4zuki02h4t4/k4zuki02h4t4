@@ -2,6 +2,8 @@
 
 # <img width="24" height="24" alt="mew" src="https://github.githubassets.com/images/mona-whisper.gif"> Hi there I'm K4zuki T
 
+<img width="32%" alt="Avatar k4zuki" align="right" src="./assets/avatar-k4zuki.png" />
+
 *Digital Contents Creator (Developer / Programmer)*
 
 I am a web developer at Kaleid Pixel (Saitama, Japan), I work remotely 💻
@@ -19,3 +21,4 @@ I am a web developer at Kaleid Pixel (Saitama, Japan), I work remotely 💻
 - <img width="auto" height="24" alt="dashicons format chat" align="absbottom" src="./assets/wordpress-support-contributor-badge.svg" /> Support Contributor
 - <img width="auto" height="24" alt="dashicons ticket" align="absbottom" src="./assets/wordcamp-organizer-badge.svg" /> WordCamp Organizer
 - <img width="auto" height="24" alt="dashicons megaphone" align="absbottom" src="./assets/wordcamp-speaker-badge.svg" /> WordCamp Speaker
+
