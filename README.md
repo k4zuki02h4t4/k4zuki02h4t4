@@ -8,18 +8,6 @@ I am a web developer at Kaleid Pixel (Saitama, Japan), I work remotely 💻
 
 😎 `PHP`, `MySQL`, `jQuery`
 
-<h2><img width="auto" height="28" alt="zenn logo" align="absbottom" src="./assets/zenn-logo.svg" /> Latest posts</h2>
-
-<!-- BLOG-POST-LIST:START -->
-- [【Laragon】XAMPP・MAMPに代わるWindows向けLAMP環境【軽量＆簡単】](https://zenn.dev/k4zuki02h4t4/articles/92111b5d112653)
-- [Intel NIC X710-TL/T2L の高速化／パフォーマンス調整のプロパティー詳細設定](https://zenn.dev/k4zuki02h4t4/articles/cf4372c152016b)
-- [【2025年版】XAMPP・MAMPに代わるWindows向けLAMP環境3選【軽量＆簡単】](https://zenn.dev/k4zuki02h4t4/articles/cb3ca912c9f289)
-- [バッファロー 10GbE NIC &lpar;Buffalo LGY-PCIE-MG2&rpar; のファームウェアとドライバーを更新する](https://zenn.dev/k4zuki02h4t4/articles/15609f40f9480d)
-- [MariaDB を Debian 12 bookworm にインストール](https://zenn.dev/k4zuki02h4t4/articles/ba38a3e6291d6f)
-- [Debian 12 bookworm のインストール後に行う初期設定](https://zenn.dev/k4zuki02h4t4/articles/bdf06c9f06978a)
-- [FrankenPHP を Debian 12 bookworm にインストール](https://zenn.dev/k4zuki02h4t4/articles/920c94c52111e6)
-<!-- BLOG-POST-LIST:END -->
-
 <h2><picture>
   <source media="(prefers-color-scheme: dark)"  srcset="./assets/wordpress-logo-dark.svg" width="auto" height="28" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/wordpress-logo-light.svg" width="auto" height="28" />
@@ -33,3 +21,14 @@ I am a web developer at Kaleid Pixel (Saitama, Japan), I work remotely 💻
 - <img width="auto" height="24" alt="dashicons ticket" align="absbottom" src="./assets/wordcamp-organizer-badge.svg" /> WordCamp Organizer
 - <img width="auto" height="24" alt="dashicons megaphone" align="absbottom" src="./assets/wordcamp-speaker-badge.svg" /> WordCamp Speaker
 
+<h2><img width="auto" height="28" alt="zenn logo" align="absbottom" src="./assets/zenn-logo.svg" /> Latest posts</h2>
+
+<!-- BLOG-POST-LIST:START -->
+- [【Laragon】XAMPP・MAMPに代わるWindows向けLAMP環境【軽量＆簡単】](https://zenn.dev/k4zuki02h4t4/articles/92111b5d112653)
+- [Intel NIC X710-TL/T2L の高速化／パフォーマンス調整のプロパティー詳細設定](https://zenn.dev/k4zuki02h4t4/articles/cf4372c152016b)
+- [【2025年版】XAMPP・MAMPに代わるWindows向けLAMP環境3選【軽量＆簡単】](https://zenn.dev/k4zuki02h4t4/articles/cb3ca912c9f289)
+- [バッファロー 10GbE NIC &lpar;Buffalo LGY-PCIE-MG2&rpar; のファームウェアとドライバーを更新する](https://zenn.dev/k4zuki02h4t4/articles/15609f40f9480d)
+- [MariaDB を Debian 12 bookworm にインストール](https://zenn.dev/k4zuki02h4t4/articles/ba38a3e6291d6f)
+- [Debian 12 bookworm のインストール後に行う初期設定](https://zenn.dev/k4zuki02h4t4/articles/bdf06c9f06978a)
+- [FrankenPHP を Debian 12 bookworm にインストール](https://zenn.dev/k4zuki02h4t4/articles/920c94c52111e6)
+<!-- BLOG-POST-LIST:END -->
