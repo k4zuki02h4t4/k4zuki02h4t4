@@ -14,7 +14,7 @@ I am a web developer at Kaleid Pixel (Saitama, Japan), I work remotely 💻
   </picture> WordPress contribution history</h2>
 
 - <img width="auto" height="24" alt="dashicons editor code" align="absbottom" src="./assets/wordpress-core-contributor-badge.svg" /> Core Contributor
-- Translation Contributor
+- <img width="auto" height="24" alt="dashicons translation" align="absbottom" src="./assets/wordpress-translation-contributor-badge.svg" /> Translation Contributor
 - <img width="auto" height="24" alt="dashicons format chat" align="absbottom" src="./assets/wordpress-support-contributor-badge.svg" /> Support Contributor
 - WordCamp Organizer
 - WordCamp Speaker
