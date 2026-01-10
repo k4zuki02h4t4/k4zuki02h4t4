@@ -13,8 +13,8 @@ I am a web developer at Kaleid Pixel (Saitama, Japan), I work remotely 💻
   <img width="auto" height="28" alt="WordPress logo" align="absbottom" src="./assets/wordpress-logo-light.svg" />
   </picture> WordPress contribution history</h2>
 
-- <img width="auto" height="24" alt="dashicons editor code" align="absbottom" src="./assets/wordpress-core-contributor-badge.svg" /> Core Contributor
 - <img width="auto" height="24" alt="dashicons admin plugin" align="absbottom" src="./assets/wordpress-plugin-developer-badge.svg" /> Plugin Developer
+- <img width="auto" height="24" alt="dashicons editor code" align="absbottom" src="./assets/wordpress-core-contributor-badge.svg" /> Core Contributor
 - <img width="auto" height="24" alt="dashicons translation" align="absbottom" src="./assets/wordpress-translation-contributor-badge.svg" /> Translation Contributor
 - <img width="auto" height="24" alt="dashicons format chat" align="absbottom" src="./assets/wordpress-support-contributor-badge.svg" /> Support Contributor
 - <img width="auto" height="24" alt="dashicons ticket" align="absbottom" src="./assets/wordcamp-organizer-badge.svg" /> WordCamp Organizer
