@@ -8,9 +8,10 @@ I am a web developer at Kaleid Pixel (Saitama, Japan), I work remotely 💻
 
 😎 `PHP`, `MySQL`, `jQuery`
 ## WordPress contribution history
-- <img width="18" height="24" alt="dashicons editor code" align="absbottom" src="./assets/wordpress-core-contributor-badge.svg"> Core Contributor
+- <img width="auto" height="24" alt="dashicons editor code" align="absbottom" src="./assets/wordpress-core-contributor-badge.svg"> Core Contributor
 - Translation Contributor
 - Support Contributor
 - WordCamp Organizer
 - WordCamp Speaker
 - Plugin Developer
+
