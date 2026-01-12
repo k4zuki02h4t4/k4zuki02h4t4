@@ -7,8 +7,7 @@
 *Digital Contents Creator (Developer / Programmer)*
 
 I'm a solo-mode developer mainly fighting with PHP.  
-Writing PHP while chasing the ideal desk setup (Gadgets & Custom Keyboards).  
-I live in Dark Mode; showing me a Light Mode screen deals critical damage to my eyes.  
+Writing PHP while chasing the ideal desk setup (Gadgets & Custom Keyboards). I live in Dark Mode; showing me a Light Mode screen deals critical damage to my eyes.  
 I may seem laid-back, but I'm unexpectedly particular about details.
 
 I constantly wish for a real-life `Ctrl + Z` (Undo with memory retention) and `Ctrl + Shift + Z` (Redo with alternate timeline memories).
