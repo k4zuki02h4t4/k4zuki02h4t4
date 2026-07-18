@@ -13,4 +13,4 @@ jobs:
               with:
                 max_post_count: "7"
                 readme_path: "README.md,README-ja.md"
-                feed_list: "https://zenn.dev/k4zuki02h4t4/feed,https://note.com/k4zuki0tsuhata/rss"
+                feed_list: "https://zenn.dev/k4zuki02h4t4/feed"
