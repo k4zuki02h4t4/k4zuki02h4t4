@@ -47,13 +47,13 @@ PHPを書きつつ、理想のデスク環境（ガジェット・自作キー�
 <h2><img width="auto" height="28" alt="zenn logo" align="absbottom" src="./assets/zenn-logo.svg" /> 新着記事</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions のセキュリティチェックリスト](https://zenn.dev/k4zuki02h4t4/articles/5b0839a72cdb47)
 - [Windows 11 で WSL2 &lpar;Windows Subsystem for Linux&rpar; を設定](https://zenn.dev/k4zuki02h4t4/articles/e042904a472e6b)
 - [【Laragon】XAMPP・MAMPに代わるWindows向けLAMP環境【軽量＆簡単】](https://zenn.dev/k4zuki02h4t4/articles/92111b5d112653)
 - [Intel NIC X710-TL/T2L の高速化／パフォーマンス調整のプロパティー詳細設定](https://zenn.dev/k4zuki02h4t4/articles/cf4372c152016b)
 - [【2025年版】XAMPP・MAMPに代わるWindows向けLAMP環境3選【軽量＆簡単】](https://zenn.dev/k4zuki02h4t4/articles/cb3ca912c9f289)
 - [バッファロー 10GbE NIC &lpar;Buffalo LGY-PCIE-MG2&rpar; のファームウェアとドライバーを更新する](https://zenn.dev/k4zuki02h4t4/articles/15609f40f9480d)
 - [MariaDB を Debian 12 bookworm にインストール](https://zenn.dev/k4zuki02h4t4/articles/ba38a3e6291d6f)
-- [Debian 12 bookworm のインストール後に行う初期設定](https://zenn.dev/k4zuki02h4t4/articles/bdf06c9f06978a)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💛コンタクト
